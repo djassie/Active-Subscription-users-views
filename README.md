@@ -10,3 +10,5 @@ lando import drupal9.2023-08-28-1693195280.sql.gz
 ````
 
 Then navigate to the `URL` and `user/password` is `admin/1`
+
+./Screenshot from 2023-08-28 09-34-42.png
